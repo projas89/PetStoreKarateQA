@@ -1,0 +1,5 @@
+1. La API de PetStore permite validar fácilmente operaciones CRUD básicas.
+2. Karate simplifica la automatización de pruebas REST al combinar BDD con manejo nativo de JSON.
+3. Se observó que los endpoints responden correctamente con tiempos aceptables y formatos JSON bien estructurados.
+4. Se demostró la trazabilidad de la prueba al guardar el ID generado para su uso en las siguientes fases.
+5. El framework Karate resulta una opción robusta y legible para pruebas E2E de servicios REST.
